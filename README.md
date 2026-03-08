@@ -80,4 +80,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-Would you like me to help you create a **"Table of Contents"** at the top or a **"License"** section for the bottom of this file?
